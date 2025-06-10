@@ -1,6 +1,6 @@
 {
   "name": "YouTube Music URL Server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "slug": "youtube_music_url_server",
   "description": "A Flask server that extracts audio URLs from YouTube Music",
   "startup": "services",
